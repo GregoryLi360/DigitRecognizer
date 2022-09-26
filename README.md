@@ -1,4 +1,4 @@
 # DigitRecognizer
 
-Python demonstration of CNN model recognizing hand drawn digits
+Python demonstration of CNN model recognizing hand drawn digits \n
 NN model is pretrained using MNIST dataset and loaded from an h5 file
